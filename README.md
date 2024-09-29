@@ -1,4 +1,4 @@
-![logo](White Clean Minimalist Corporate Personal Profile LinkedIn Banner.jpg)
+![logo](https://github.com/Ahmadhassan147/Ahmadhassan147/blob/main/White%20Clean%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ahmad Hassan</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
 
